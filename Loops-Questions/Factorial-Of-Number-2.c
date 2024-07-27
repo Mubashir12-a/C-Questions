@@ -1,4 +1,4 @@
-// Using For-loop:
+// Using For-Loop:
 
 
 #include <stdio.h>
