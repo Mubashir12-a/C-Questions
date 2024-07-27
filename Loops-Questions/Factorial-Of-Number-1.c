@@ -1,4 +1,4 @@
-// Using Goto-loop:
+// Using GoTo-loop:
 
 #include <stdio.h>
 
