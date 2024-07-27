@@ -1,4 +1,4 @@
-// addition:
+// Addition:
 
 #include <stdio.h>
 
