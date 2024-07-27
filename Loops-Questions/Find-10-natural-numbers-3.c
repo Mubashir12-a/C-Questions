@@ -1,3 +1,6 @@
+// Using While-loop:
+
+
 #include <stdio.h>
 
 int main(){

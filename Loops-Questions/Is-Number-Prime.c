@@ -1,3 +1,5 @@
+//Using Goto-loop & conditional statement:
+
 #include <stdio.h>
 
 int main(){

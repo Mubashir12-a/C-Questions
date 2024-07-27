@@ -1,3 +1,5 @@
+// Using For-loop:
+
 #include <stdio.h>
 
 int main(){

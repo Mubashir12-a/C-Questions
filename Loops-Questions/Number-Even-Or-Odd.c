@@ -1,3 +1,5 @@
+//Using Conditional Statement:
+
 #include <stdio.h>
 
 int main(){

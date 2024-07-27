@@ -1,6 +1,6 @@
-#include <stdio.h>
-
 // Using Goto Loop:
+
+#include <stdio.h>
 
 int main(){
 

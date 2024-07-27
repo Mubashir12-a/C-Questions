@@ -1,3 +1,5 @@
+// Using Goto-loop:
+
 #include <stdio.h>
 
 int main(){
