@@ -1,4 +1,4 @@
-//Using Goto-loop & conditional statement:
+//Using GoTo-loop & conditional statement:
 
 #include <stdio.h>
 
