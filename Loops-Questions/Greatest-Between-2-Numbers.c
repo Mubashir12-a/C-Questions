@@ -1,4 +1,4 @@
-// Using Conditional Statement:
+//Using Conditional Statement:
 
 #include <stdio.h>
 
