@@ -1,4 +1,4 @@
-// Using While-loop:
+// Using While-Loop:
 
 
 #include <stdio.h>
