@@ -1,4 +1,4 @@
-// Using Do-While-loop:
+// Using Do-While-Loop:
 
 
 #include <stdio.h>
