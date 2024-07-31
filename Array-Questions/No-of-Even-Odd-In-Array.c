@@ -1,4 +1,4 @@
-// write a program to find no.of even and odd numbers in an array:
+// write a program to Find no.of even and odd numbers in an array:
 
 #include <stdio.h>
 
