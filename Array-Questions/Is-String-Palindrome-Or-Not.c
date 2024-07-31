@@ -1,4 +1,4 @@
-// write a program to find is Single word string palindrome or not:
+// write a program to Find is Single word string palindrome or not:
 
 #include <stdio.h>
 #include <ctype.h>
