@@ -1,4 +1,4 @@
-// Write a program to search a number in an array:
+// Write a program to search a Number in an array:
 
 #include <stdio.h>
 
