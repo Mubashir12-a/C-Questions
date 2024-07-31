@@ -1,4 +1,4 @@
-// Write a program to copy elements from an array to another array:
+// Write a program to copy Elements from an array to another array:
 
 #include <stdio.h>
 
