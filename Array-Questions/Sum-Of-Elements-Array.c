@@ -1,4 +1,4 @@
-// Write a program to find sum of elements of an array:
+// Write a program to find sum of Elements of an array:
 
 #include <stdio.h>
 
