@@ -1,4 +1,4 @@
-// Write a program to Sum arr_1 and arr_2 elements and store in arr_3:
+// Write a program to Sum arr_1 and arr_2 Elements and store in arr_3:
 
 #include <stdio.h>
 
