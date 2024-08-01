@@ -2,6 +2,8 @@
 
 int main(){
 
+    // printf("Hello World!");
+
     int rows;
 
     printf("Enter No.of rows: ");
