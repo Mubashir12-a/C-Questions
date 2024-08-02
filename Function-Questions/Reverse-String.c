@@ -4,7 +4,7 @@
 
 char* reverse(char string[]){
 
-    static char RevString[50];         // Static for to avoid arr delocation while returning.
+    static char RevString[50];         // Static for to avoid arr delocation while returning!
 
     int len = strlen(string);
 
