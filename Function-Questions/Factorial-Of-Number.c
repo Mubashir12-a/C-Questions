@@ -15,7 +15,7 @@ int main(){
 
     int num;
 
-    printf("Enter Number: ");
+    printf("Enter Number : ");
     scanf("%d", &num);
 
     printf("Factorial Of %d is : %d",num, fact(num));
