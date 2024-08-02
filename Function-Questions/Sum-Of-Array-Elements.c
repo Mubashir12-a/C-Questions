@@ -25,7 +25,7 @@ int main(){
         scanf("%d", &arr[i]);
     }
 
-    printf("The Sum of Array Elements is: %d", SUM(arr, size));
+    printf("The Sum of Array Elements is : %d", SUM(arr, size));
 
     return 0;
 }
