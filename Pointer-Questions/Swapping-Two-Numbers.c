@@ -17,7 +17,7 @@ int main(){
     int num_1 = 10;
     int num_2 = 20;
 
-    printf("Before swapping:\n");
+    printf("Before swapping: \n");
     printf("Value of num_1: %d & num_2: %d\n", num_1, num_2);
     printf("After swapping:\n");
 
