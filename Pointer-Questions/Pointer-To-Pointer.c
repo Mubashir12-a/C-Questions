@@ -18,8 +18,8 @@ int main(){
     printf("%d\n", **ptr_2);  // output = 20
 
 
-    printf("%d\n", *ptr);  // value modified using pointers.  output = 20
-    printf("%d\n", num);   // value modified using pointers.  output = 20
+    printf("%d \n", *ptr);  // value modified using pointers.  output = 20
+    printf("%d \n", num);   // value modified using pointers.  output = 20
  
     return 0;
 }
