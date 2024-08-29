@@ -6,7 +6,7 @@
 <pre>Topics i have covered:
   1. Flowchart 
   2. Algorithm 
-  3. Loops(for loop, while loop, do while loop, & Goto loop
+  3. Loops(for loop, while loop, do while loop, & Goto loop)
   4. Array
   5. 2D array & 3D array
   6. Functions
