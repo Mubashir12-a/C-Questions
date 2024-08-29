@@ -1,0 +1,38 @@
+Preprocessor Directives:
+
+--> Definition: Instructions that are processed before the program is compiled.
+
+--> Syntax: Lines starting with #, such as #include and #define.
+
+------> Examples:
+
+    #include <stdio.h>: Includes the standard input-output header file.
+    #define PI 3.14: Defines a constant PI with the value 3.14.
+                     Purpose:
+
+--> Header Files: Include external libraries or code (e.g., #include <stdio.h>).
+--> Macros: Replace text or define constants before compilation (e.g., #define PI 3.14).
+
+
+
+---> Preprocessing vs. Compilation:
+
+--> Preprocessing: Handles directives like #include, #define, and macros before compilation.
+--> Compilation: Transforms the preprocessed code into machine code.
+                 Const Variables:
+
+---> const int x = 10; is a constant defined at compile time, and is handled by the compiler, not the preprocessor.
+
+
+
+--> Libraries:
+
+        Definition: Collections of pre-defined functions and routines.
+
+        Usage: Included via #include directives to use these functions in your code.
+               The preprocessor is a phase that prepares the code for compilation by handling directives, macros, and file inclusions.
+
+
+--> The C pre-processed is a micro-processor that is used by compiler to transform the code before compilation
+    (works before compiler). pre-processed directory starts with the '#' symbol. they are reponsible for adding 
+    heading files, liblaries, directories, macro's, define constant etc.
